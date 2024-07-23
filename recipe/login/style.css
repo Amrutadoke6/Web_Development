@@ -1,0 +1,44 @@
+
+form{
+    background-color: rgb(205, 200, 209);
+    background: #304352;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to left, #d7d2cc, #304352);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to left, #d7d2cc, #304352); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: #FFEEEE;
+    background: -webkit-linear-gradient(to right,#DDEFBB,#FFEEEE);
+    background: linear-gradient(to right,#DDEFBB,#FFEEEE);
+  ;
+    height:500px;
+    width: 400px;
+    text-align: center;
+    padding-top: 80px;
+    margin-top: 30px;
+    margin-left: 500px;
+    border-radius: 25px;
+    
+    
+}
+h2{
+    font-size: 2rem;
+    color: rgb(58, 58, 56);
+}
+h2:hover{
+   color: rgb(141, 132, 134);
+}
+input{
+    
+    height: 40px;
+    width: 250px;
+    margin: auto;
+    display: flex;
+    border-radius: 2px;
+    border: 2px solid  aquamarine;
+
+   
+}
+button{
+    border-color: aquamarine;
+    width: 100px;
+    height: 40px;
+    border-radius: 20px;
+}
